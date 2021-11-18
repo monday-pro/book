@@ -859,8 +859,7 @@ C++程序设计语言(特别版)    [直接下载](https://monday-pro.lanzoui.co
 
 C+学习笔记    [直接下载](https://monday-pro.lanzoui.com/iQkoAwgkyyb)
 
-C\_Interfaces\_and\_Implementations\_\_Techniques\_for\_Creating\_Reusable\_Software    [直接下载](https://monday-
-pro.lanzoui.com/ikRZ8wgkz1e)
+C\_Interfaces\_and\_Implementations    [直接下载](https://monday-pro.lanzoui.com/ikRZ8wgkz1e)
 
 C专家编程 清晰 （有书签索引）    [直接下载](https://monday-pro.lanzoui.com/iroPbwgkzkd)
 
