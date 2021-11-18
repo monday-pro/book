@@ -4,9 +4,75 @@
 
 并且计算机类的书籍又那么贵，作为一个机不离身的程序员，天天买纸质书也是不大可能的，所以对电子书的需求量还是挺多的。为了方便广大的小伙伴能找到对应的电子书，我花费洪荒之力从各个网站收集了上千本常用的计算机类电子书（**目前1100+**）。为防止下次找不到，建议大家偷偷收藏起来。**由于整个文件太大了，几十个G，传不上来，Github也放不了，同时大家一次性下载也不方便**，所以整理了一个目录，可以按需下载。
 
+**注：目录为页内目录，按住  Ctrl + 鼠标左键  即可跳转到对应目录**。若想快速找到需要的书籍，也可  Ctrl + F  调出搜索框，搜索想要的书籍。
+
 # 书籍总共分为20多个大类、50多个小类
 
-[toc]
+* [1、Android](#1android)
+* [2、Java相关](#2java相关)
+  * [Hibernate](#hibernate)
+  * [MyBatis](#mybatis)
+  * [OSGI](#osgi)
+  * [Spring](#spring)
+  * [Struts](#struts)
+  * [Tomcat](#tomcat)
+  * [多线程并发](#多线程并发)
+  * [工作流](#工作流)
+  * [Java](#java)
+* [3、JVM](#3jvm)
+* [4、Linux](#4linux)
+* [5、安全](#5安全)
+* [6、编程提升相关](#6编程提升相关)
+  * [代码和编程](#代码和编程)
+  * [项目管理和团队](#项目管理和团队)
+  * [编程提升](#编程提升)
+* [7、编程语言相关](#7编程语言相关)
+  * [C#](#c#)
+  * [C和C++](#C和C++)
+  * [Go](#go)
+  * [PHP](#php)
+  * [Python](#python)
+  * [Scala](#scala)
+  * [编程语言](#编程语言)
+* [8、操作系统](#8操作系统)
+* [9、大数据相关](#9大数据相关)
+  * [Hadoop](#hadoop)
+  * [Kafka](#kafka)
+  * [MongoDB](#mongodb)
+  * [Spark](#spark)
+  * [大数据](#大数据)
+* [10、分布式](#10分布式)
+* [11、工具](#11工具)
+* [12、规范](#12规范)
+* [13、机器学习相关](#13机器学习相关)
+  * [机器学习](#机器学习)
+  * [数据挖掘与分析](#数据挖掘与分析)
+  * [数学](#数学)
+  * [其它](#其它)
+* [14、架构设计](#14架构设计)
+* [15、面试](#15面试)
+* [16、前端相关](#16前端相关)
+  * [HTML和CSS](#HTML和CSS)
+  * [JavaScript](#javascript)
+  * [jQuery](#jquery)
+  * [前端](#前端)
+* [17、软件测试](#17软件测试)
+* [18、软件工程相关](#18软件工程相关)
+  * [UML](#uml)
+  * [软件工程](#软件工程)
+* [19、设计模式](#19设计模式)
+* [20、数据结构和算法](#20数据结构和算法)
+* [21、数据库相关](#21数据库相关)
+  * [MySQL](#mysql)
+  * [Redis](#redis)
+  * [数据库](#数据库)
+* [22、网络](#22网络)
+* [23、项目实践分享相关](#23项目实践分享相关)
+  * [互联网公司技术架构资料](#互联网公司技术架构资料)
+  * [项目实践分享](#项目实践分享)
+* [24、运维](#24运维)
+* [25、中间件](#25中间件)
+* [免责声明](#免责声明)
 
 1、Android
 ---------
@@ -34,8 +100,7 @@ Hibernate3开发指南    [直接下载](https://monday-pro.lanzoui.com/iFW1Ewfh
 
 Hibernate实战（第2版）    [直接下载](https://monday-pro.lanzoui.com/iGYFHwfhhef)
 
-Java Persistence with Hibernate REVISED EDITION OF HIBERNATE IN ACTION    [直接下载](https://monday-
-pro.lanzoui.com/i9M0dwfhhxe)
+Java Persistence with Hibernate    [直接下载](https://monday-pro.lanzoui.com/i9M0dwfhhxe)
 
 Manning.Java.Persistence.with.Hibernate.Nov.2006    [直接下载](https://monday-pro.lanzoui.com/iQxpTwfhi8f)
 
@@ -2369,4 +2434,4 @@ RabbitMQ实战指南    [直接下载](https://monday-pro.lanzoui.com/ih2zpwfnd5
 
 免责声明
 ----
-以上书籍全部搜集于网络，我这里只是重新进行了整理，如有侵权，马上联系我，我立马删除对应书籍。我的邮箱：1415492823@qq.com
+以上书籍全部搜集于网络，我这里只是重新进行了整理，如有侵权，请联系我，我马上删除对应书籍。我的邮箱：1415492823@qq.com
